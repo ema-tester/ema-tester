@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">ema-tester's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 4, Total PRs: 1, Total Issues: 0, Contributed to (last year): 0</desc>
+        <title id="titleId">Emanuele's GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 30, Total PRs: 22, Total Issues: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 250.00040242440096;
+        stroke-dashoffset: 219.17186367005618;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >ema-tester's GitHub Stats</text>
+      >Emanuele's GitHub Stats</text>
     </g>
       </g>
     
@@ -151,7 +151,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >0</text>
+      >3</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >4</text>
+      >30</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >1</text>
+      >22</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >0</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >0</text>
+      >1</text>
     </g>
   </g>
     </svg>
